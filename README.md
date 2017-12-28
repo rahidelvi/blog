@@ -5,13 +5,6 @@ Website based on a [lighter version](https://github.com/rahidelvi/G14) of [jaspe
 This is a full-featured port of Ghost's default theme from [Fábio Madeira](https://github.com/myJekyll/jasper2). See  [Casper](https://github.com/tryghost/casper)
 *v2.1.7* for [Jekyll](https://jekyllrb.com/) / [GitHub Pages](https://pages.github.com/).
 
-## Live Demo
-
-[Ghost's Casper](https://demo.ghost.io) // [Jasper2](https://myJekyll.github.io/jasper2)
-
-![home page](https://raw.githubusercontent.com/myJekyll/jasper2/master/assets/screenshot-desktop.jpg)
-
-
 ## Features
 
 * Out of the box support for multiple authors (via `_data/authors.yml`)
