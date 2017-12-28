@@ -56,18 +56,10 @@ $ gulp
 
 Now you can edit `/assets/css/` files, which will be compiled to `/assets/built/` automatically.
 
-## Issues and Contributing
-
-This install builds well with Ruby v2.4.2 and Jekyll v3.6.2. If you run into any problems
-please log them on the [issue tracker](https://github.com/myJekyll/jasper2/issues).
-
-Feel free pull-request your patches and fixes.
-
 ## Thanks
 
 
-Many thanks to the Ghost team for all the design work. Also many thanks to all contributors,
-that help keeping the project alive and updated :smile:
+Many thanks to the Ghost team for all the design work. Also many thanks to all contributors, that help keeping the project alive and updated :smile:
 
 
 ## Copyright & License
