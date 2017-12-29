@@ -1,0 +1,16 @@
+---
+layout: post
+title: Google confirmation bias
+date: '2014-02-27 16:55:00'
+tags:
+- images
+- canva
+- twitart
+- quotes
+- psychology
+- technology
+---
+
+![Google Confirmation Bias](https://lh3.googleusercontent.com/9LhFDZKm8OJg_pPLRRVbBK0WLfQhkLSvmNBpZ7JSOwPvwCwBHwspRCp4CaTdZwJbyjTy7vNXcDoPzDqafc5D0oJPjBHsgaLYmLjR7OF4JKHABaLOdNrh3sXOjM2IhXUovMqP-dk1gIaOm74teDKR56DM98nv0eLT9K18ZQqERcqae7B6sMSaNkzLX6BDbtCuCWnBLvl8tsS9wpUN6J5htDg0fexuGkcO-ZRgRFOs3gwM5XSYicBNTKgL9EvyoPCZEm0icOTRuWHSYAtItEBy0tspyxRybOdCQSJxeKrEwHYetRvYo8R19ksFUnQfgSMyRCCy7nut2fxR9KiMTHHeoZbkiiqAsfiAnzNz4Xywc06XYDYPXSP0ymg-TfxB-o4ZyurzKs0dN0Ck7modw_I18gSr0rRhhcQofAK3bNAvaH4eHg5km9sHIw8FeP1pAGvcbJLiPrCbq74jNIMdUc4yphmVnIToP2g7LhorEBVdj6zSBcVsL9q7P1BczXDxmodhWXAupsGZOoPJazXJIEanyzHo_qHdCUa03VDYwUhgWGUGLGHMU4rnT73O0So2Ep6rkuIkubsXNh9wPWUTYPSHT6lHXrpxcPxtb7SUmNIKwqFVxAcaTTmN0A=w923-h692-no)  
+
+Tweet by&nbsp;[Dan Gardner](https://twitter.com/dgardner/status/409369413805019136 "@dgardner ").

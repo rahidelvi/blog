@@ -1,3 +1,15 @@
+rahi:
+  username: rahi
+  name: Rahi Delvi
+  location: Toronto, Canada
+  url_full: https://www.rahidelvi.ca
+  url: rahidelvi.ca
+  bio: social profit technology advisor
+  picture: assets/images/rahi.png
+  facebook: False
+  twitter: RahiDelvi
+  linkedin: rahidelvi
+  cover: assets/images/rahi-cover.jpeg
 ghost:
   username: ghost
   name: Ghost

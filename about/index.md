@@ -8,10 +8,12 @@ class: page-template
 subclass: 'post page'
 ---
 
-Ghost is professional publishing platform designed for modern journalism. This is a demo site of a basic Ghost install to give you a general sense of what a new Ghost site looks like when set up for the first time.
+![Work Learn and Play][1]
 
-> If you'd like to set up a site like this for yourself, head over to [Ghost.org](https://ghost.org/) and start a free 14 day trial to give Ghost a try!
+Thanks for visiting my blog. I don't post as often as I'd like, it's all regrettably contingent on time and motivation.
 
-If you're a developer: Ghost is a completely open source (MIT) Node.js application built on a JSON API with an Ember.js admin client. It works with MySQL and SQLite, and is publicly available [on Github](https://github.com/TryGhost/ghost).
+Ideas benefit from periodic revision. Mine certainly do. So, 'flip-flopping' wholeheartedly embraced here.
 
-If you need help with using Ghost, you'll find a ton of useful articles on [our knowledgebase](https://help.ghost.org/), as well as extensive [developer documentation](https://docs.ghost.org/).
+I'd love to hear from you. Feel free to leave a comment on any post or get in touch by [one of these options](https://rahidelvi.ca/contact.html).
+
+[1]: https://lh3.googleusercontent.com/2DNdiZH4iZ6A0XDJXmAx_JCVBEcRRWa2VTm26DldapOAUhsB7viLLqcuiFgQCZTQ0dNLlNebX9Tt_uOIwB2-Mt2Uu0ytMnjuxNh_a2eDamoTNNSk9OTqzXrg4Htj1XVXUR5qLT-7bUXO4Fn6ob2hq4aQSjDfF6rgYYC9EKqsPH31TciDH3LMWaHKp9VYh1nSe9Xg40gO8EQjekhakmoqY5YzrQJHsBpU7deN9qg7ovRrOq2xG_9rf-9mWWf0KPRtwNpR32M0gWd5otNsP9Fn0MDeGIoroQTvpuSJ8aNtI7HXrLpkJwuuYbmdzgtev_LXbm8Q1Q8Y9nWMRFVdacK8QraaJsRbnQ93YX6fYCohGQsOelrXrUqrUC5yl1ucgxFXEFb7sb-igMIBmwrcP-kL062-yrwRv787PIj4SQjv6d2hMPJCm_ABYNAZ6riDEd7NQXLKOuFX-_DyI3Bz6Tb5LsTMxTMd5X7yf2cFtCpfQMJWXVrA-UizwJ_3eW_ejuZpNAkPNRkeR5PzWkVkK7KCND3j06kDVDJaLmdZNrUInIGrWE-tu43n9NfOzyWrde3j2ZiRVm9XdJtUZf1ARU5QjtrX0tSlVZcKiZ5qDTbvs-5K14ojVeWcWg=w500-h281-no

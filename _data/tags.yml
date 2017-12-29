@@ -14,3 +14,127 @@ getting-started:
   name: getting-started
   description: False
   cover: False
+canva:
+  name: canva
+  description: False
+  cover: False
+chuckles:
+  name: chuckles
+  description: False
+  cover: False
+cloud-computing:
+  name: cloud-computing
+  description: False
+  cover: False
+digital-literacy:
+  name: digital-literacy
+  description: False
+  cover: False
+experiments:
+  name: experiments
+  description: False
+  cover: False
+fables:
+  name: fables
+  description: False
+  cover: False
+fiction:
+  name: fiction
+  description: False
+  cover: False
+fundraising:
+  name: fundraising
+  description: False
+  cover: False
+getting-started:
+  name: getting-started
+  description: False
+  cover: False
+ict:
+  name: ict
+  description: False
+  cover: False
+images:
+  name: images
+  description: False
+  cover: False
+labour:
+  name: labour
+  description: False
+  cover: False
+marketing:
+  name: marketing
+  description: False
+  cover: False
+mindmup:
+  name: mindmup
+  description: False
+  cover: False
+movie-reactions:
+  name: movie-reactions
+  description: False
+  cover: False
+netflix:
+  name: netflix
+  description: False
+  cover: False
+privacy:
+  name: privacy
+  description: False
+  cover: False
+productivity:
+  name: productivity
+  description: False
+  cover: False
+psychology:
+  name: psychology
+  description: False
+  cover: False
+quotes:
+  name: quotes
+  description: False
+  cover: False
+reflections:
+  name: reflections
+  description: False
+  cover: False
+security:
+  name: security
+  description: False
+  cover: False
+speeches:
+  name: speeches
+  description: False
+  cover: False
+technology:
+  name: technology
+  description: False
+  cover: False
+transit:
+  name: transit
+  description: False
+  cover: False
+trello:
+  name: trello
+  description: False
+  cover: False
+ttc:
+  name: ttc
+  description: False
+  cover: False
+tutorial:
+  name: tutorial
+  description: False
+  cover: False
+twitart:
+  name: twitart
+  description: False
+  cover: False
+ubuntu:
+  name: ubuntu
+  description: False
+  cover: False
+web-apps:
+  name: web-apps
+  description: False
+  cover: False

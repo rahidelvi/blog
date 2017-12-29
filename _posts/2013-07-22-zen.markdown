@@ -1,0 +1,11 @@
+---
+layout: post
+title: Zen
+date: '2013-07-22 15:22:00'
+tags:
+- images
+---
+
+![Zen](https://lh3.googleusercontent.com/moNe_WW7KL5OnvEErx7WJRIn-q6ICKInkfX7sta47WHo04bNNxxqZHazXJ-TPLSrbb3_N-aMwCi6J0Dy8ya28iEg3x8zFD8jIQAcyysxr0Dg_DcPt-GN1OA_eTulGqgtc9W6caSFxi6HwqrgeSPQCGgwaU_vyYH1fLyh4RT261c-777YHd-YsS25DCgWhJdp1tC0uXjrJCEugzI2CfPAi63LujW5wtGbMoNNRq4Fo3hq9yyA5k_TboxQ4ncH_iqJ7UXsjOIh0oSLWSB9oJYKwM_MUjSn9T5EE7uG4OMkaeryQQ6V7nK1o8hOohww2sPXfcD_Jhv_gj7Oh4-3bjvgaNT6jaWRhO-ALcP65oP5LLize_wjKOLuMXjQFJpMz6DxLbYt-vFJENM1ASahdFZmJ5mtHvsepYhi0NR-XNcc4gzoeHkh1RQhN4GHMenpNqrrY90M7-ikky4P7DLrUmxQTQU-bHzcYvLQZz2R70lt00d3nxbZx2jAOIx3wyf04aaqJNkVwU4NK34fFAj-k-70GBW2K7PwvDsKzvVYTqwxEG7zvZCdy65-mXhp1yJF9SZOvuQ85dNIcbws-i9E0cwSTCvJNMwlgz1Tj2bMHV6xM0-dzA_Ut2EzmQ=s612-no)  
+
+Zen

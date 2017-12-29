@@ -1,0 +1,11 @@
+---
+layout: post
+title: Community wireframe
+date: '2013-07-30 06:22:00'
+tags:
+- images
+---
+
+![Community Wireframe](https://lh3.googleusercontent.com/M2T0mvUIlPRpT0XSJGLPHLPlLZQSY3IkfrLqBSxKgAnexY9_iyt3MgN_8GMOYhuePkW19t-2NHJEp34KsK7XPNVZD2gWGxlSvoWm2CHt6Q1rbymnGN_-sK4cOGeTEgCcigNJ1icqUFZuRLfhF30TC4eeT_stlsurXWzP6AKwPajdiRdjRFFwcxVesCyy0a_XAY7jUY0z0GmpY1DwzOCWLFyvA14tQiI633zUUvBhwKl1an5gjKgOamaIP9OW-e5CBJSIp4-kTBcgAntXJJfe8PeFdLseY6g6wRcF8EVXNa28ARchs9qnWMznlJFsPhopNCcoFAxpaOyezsVDNIZvHC31Mo7xMf_6vLfdf5zMMZ5RFKshNEzoOaDF1rJuY843GsX8CqDvFzHSJgbNyFasf0gfH7wQ2x1ZyLLrFdFH9_UYqR0KGpGf1iDnMHFohsYNRpvFu7vBMe5jbgEuzfVosFTld9TKdZq57-TvYOlrISaOxX--NA7uZkGpPd2kOGbEcJNVh-UR4pFQstO1WF4RZao3oEnC49Q0yDtmbZy73Egm5qLtfH6krD2G10XAkYZGjKVFSrBCifGfhStbaq_4cLE_TDf36zLkWjRbgeZcNdqjxSGtaXX_Bg=s612-no)  
+
+Spotted this on my bike route to work.
