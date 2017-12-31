@@ -1,5 +1,9 @@
 ---
 layout: post
+current: post
+navigation: True
+class: post-template
+author: rahi
 title: Crash course on using LastPass
 date: '2014-04-15 02:41:00'
 tags:

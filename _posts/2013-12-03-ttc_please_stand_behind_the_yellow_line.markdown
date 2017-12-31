@@ -1,5 +1,9 @@
 ---
 layout: post
+current: post
+navigation: True
+class: post-template
+author: rahi
 title: 'TTC: Please stand behind the yellow line'
 date: '2013-12-03 06:34:00'
 tags:

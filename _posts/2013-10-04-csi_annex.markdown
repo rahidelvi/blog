@@ -1,5 +1,9 @@
 ---
 layout: post
+current: post
+navigation: True
+class: post-template
+author: rahi
 title: CSI Annex
 date: '2013-10-04 07:31:00'
 tags:

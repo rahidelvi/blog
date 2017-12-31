@@ -1,5 +1,9 @@
 ---
 layout: post
+current: post
+navigation: True
+class: post-template
+author: rahi
 title: Translation of 'not the time for politics'
 date: '2013-07-09 10:31:00'
 tags:

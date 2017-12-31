@@ -1,5 +1,9 @@
 ---
 layout: post
+current: post
+navigation: True
+class: post-template
+author: rahi
 title: Autonomy, mastery and purpose at work
 date: '2013-07-27 20:56:00'
 tags:

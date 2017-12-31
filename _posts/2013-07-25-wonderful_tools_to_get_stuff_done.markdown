@@ -1,5 +1,9 @@
 ---
 layout: post
+current: post
+navigation: True
+class: post-template
+author: rahi
 title: Wonderful tools to get stuff done
 date: '2013-07-25 15:04:00'
 tags:

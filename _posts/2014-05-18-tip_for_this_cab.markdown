@@ -1,5 +1,9 @@
 ---
 layout: post
+current: post
+navigation: True
+class: post-template
+author: rahi
 title: Tip for this cab
 image: ''
 date: '2014-05-18 13:54:00'

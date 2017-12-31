@@ -1,5 +1,9 @@
 ---
 layout: post
+current: post
+navigation: True
+class: post-template
+author: rahi
 title: Community wireframe
 date: '2013-07-30 06:22:00'
 tags:

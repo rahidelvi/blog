@@ -1,5 +1,9 @@
 ---
 layout: post
+current: post
+navigation: True
+class: post-template
+author: rahi
 title: What 'open data' means
 date: '2013-07-26 19:29:00'
 tags:

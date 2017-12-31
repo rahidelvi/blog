@@ -1,5 +1,9 @@
 ---
 layout: post
+current: post
+navigation: True
+class: post-template
+author: rahi
 title: Google confirmation bias
 date: '2014-02-27 16:55:00'
 tags:

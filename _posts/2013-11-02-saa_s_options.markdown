@@ -1,5 +1,9 @@
 ---
 layout: post
+current: post
+navigation: True
+class: post-template
+author: rahi
 title: SaaS options
 date: '2013-11-02 15:41:00'
 tags:

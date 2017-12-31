@@ -1,5 +1,9 @@
 ---
 layout: post
+current: post
+navigation: True
+class: post-template
+author: rahi
 title: Her
 date: '2014-01-18 08:38:00'
 tags:

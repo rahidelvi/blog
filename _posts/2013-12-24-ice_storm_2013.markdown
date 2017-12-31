@@ -1,5 +1,9 @@
 ---
 layout: post
+current: post
+navigation: True
+class: post-template
+author: rahi
 title: Ice storm 2013
 date: '2013-12-24 15:15:00'
 tags:

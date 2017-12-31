@@ -1,5 +1,9 @@
 ---
 layout: post
+current: post
+navigation: True
+class: post-template
+author: rahi
 title: Product or service viability
 date: '2013-10-19 16:21:00'
 tags:
