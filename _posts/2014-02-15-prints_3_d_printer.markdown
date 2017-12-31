@@ -1,5 +1,9 @@
 ---
 layout: post
+current: post
+navigation: True
+class: post-template
+author: rahi
 title: Prints 3D printer
 date: '2014-02-15 20:51:00'
 tags:

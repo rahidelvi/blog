@@ -1,5 +1,9 @@
 ---
 layout: post
+current: post
+navigation: True
+class: post-template
+author: rahi
 title: Time to try a different operating system
 date: '2012-03-19 01:40:00'
 tags:
@@ -12,6 +16,6 @@ The wubi installer allows you to install and unistall ubuntu just like any other
 
 Ubuntu is fairly intuitive and easy to use at the basic level. By basic level, I mean, "function" and get things done relative to your Windows habits. When  you move into personalizing the operating system to your specifc tastes, it can get a bit exotic.
 
-I understand some people don't like change in the applications they use. To them I say, pause, and take stock of the computing enviroment we're in. We're all getting very used to changing user interfaces. Facebook, Twitter, our online banking, email, internet browsers, mobile devices, and so on. 
+I understand some people don't like change in the applications they use. To them I say, pause, and take stock of the computing enviroment we're in. We're all getting very used to changing user interfaces. Facebook, Twitter, our online banking, email, internet browsers, mobile devices, and so on.
 
 With Ubuntu, you have a chance to see a desktop conceived differently. Try it, but not for a short time. Live with it a little, it's fun.

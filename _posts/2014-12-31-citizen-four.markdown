@@ -1,7 +1,11 @@
 ---
 layout: post
+current: post
+navigation: True
+class: post-template
+author: rahi
 title: Citizenfour
-image: https://farm6.staticflickr.com/5609/15427445517_9e6c5bf583_o.jpg
+cover: assets/images/escf.jpg
 date: '2014-12-31 03:33:29'
 tags:
 - movie-reactions

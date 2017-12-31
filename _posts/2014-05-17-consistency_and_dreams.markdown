@@ -1,5 +1,9 @@
 ---
 layout: post
+current: post
+navigation: True
+class: post-template
+author: rahi
 title: Consistency and dreams
 date: '2014-05-17 17:05:00'
 tags:

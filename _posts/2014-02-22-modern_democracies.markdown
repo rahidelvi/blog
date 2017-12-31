@@ -1,5 +1,9 @@
 ---
 layout: post
+current: post
+navigation: True
+class: post-template
+author: rahi
 title: Modern democracies
 date: '2014-02-22 07:22:00'
 tags:

@@ -1,5 +1,9 @@
 ---
 layout: post
+current: post
+navigation: True
+class: post-template
+author: rahi
 title: RebelMouse website embed
 date: '2012-08-04 20:38:00'
 tags:

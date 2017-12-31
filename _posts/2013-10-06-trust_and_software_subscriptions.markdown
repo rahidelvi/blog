@@ -1,5 +1,9 @@
 ---
 layout: post
+current: post
+navigation: True
+class: post-template
+author: rahi
 title: Trust and software subscriptions
 date: '2013-10-06 09:03:00'
 tags:

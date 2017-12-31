@@ -1,7 +1,11 @@
 ---
 layout: post
+current: post
+navigation: True
+class: post-template
+author: rahi
 title: How to import an outline into MindMup
-image: https://c1.staticflickr.com/5/4054/4711501346_fef484fe18_o.jpg
+cover: assets/images/mindmap.jpg
 date: '2017-02-22 01:35:38'
 tags:
 - technology
@@ -68,7 +72,7 @@ Now that you have the word processor content in MindMup, you can use the cut and
 
 ---
 
-Phew, that seems like a lot. I know. 
+Phew, that seems like a lot. I know.
 
 Ideally you pick the right tool for the task early in your creative process. But if you don't, with a little bit of practice, you can learn how to pull off these steps in just a few minutes. I hope in the future MindMup developers provide users easier options of importing data into to the tool.
 

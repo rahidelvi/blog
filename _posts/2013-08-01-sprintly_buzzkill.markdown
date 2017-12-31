@@ -1,5 +1,9 @@
 ---
 layout: post
+current: post
+navigation: True
+class: post-template
+author: rahi
 title: Sprintly buzzkill
 date: '2013-08-01 17:31:00'
 tags:

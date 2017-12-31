@@ -1,5 +1,9 @@
 ---
 layout: post
+current: post
+navigation: True
+class: post-template
+author: rahi
 title: Searching for Sugar Man
 date: '2013-07-15 07:58:00'
 tags:
