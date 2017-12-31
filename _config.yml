@@ -8,10 +8,10 @@ language: 'en-uk'
 baseurl: '/'
 
 # Website info
-title: ≈
+title: rahi delvi
 description: scrapbooking
-cover: assets/images/blog-cover.jpg
-logo: assets/images/blog-icon.png
+cover: assets/images/pencil.jpeg
+# logo: assets/images/blog-icon.png
 logo_dark: assets/images/favicon.png
 favicon: assets/images/favicon.png
 production_url: https://blog.rahidelvi.ca/
