@@ -48,37 +48,7 @@ If for some reason I miss or ignore the notification, the script puts my screen 
 
 Here’s my slightly modified version of the script. It runs when my computer starts.
 
-```bash
-#!/bin/bash
-
-## Tutorial on battery level notifications (askubuntu.com/a/518955/60869)
-
-    while true
-    do
-        export DISPLAY=:0.0
-        battery_level=`acpi -b | grep -P -o '[0-9]+(?=%)'`
-        if on_ac_power; then
-            if [ $battery_level -ge 80 ]; then
-                notify-send "Rahi, you can unplug the AC adapter. The battery is charging above 80%." "Charging: ${battery_level}% "
-                sleep 40
-                if on_ac_power; then
-                    gnome-screensaver-command -l   ## lock the screen if you don't unplug AC adapter after 40 seconds
-                fi
-             fi
-        else
-             if [ $battery_level -le 40 ]; then
-                notify-send "Rahi, time to plug in the AC adapter! Battery charge is lower than 40%." "Charging: ${battery_level}%"
-                sleep 40
-                if ! on_ac_power; then
-                    gnome-screensaver-command -l   ## lock the screen if you don't plug AC adapter after 40 seconds
-                fi
-             fi
-        fi
-
-        sleep 300 # 300 seconds or 5 minutes
-    done
-```
-
+<script src="https://gist.github.com/rahidelvi/27f6f8ea2b8f174a1afeaa6d46f2a6e0.js"></script>
 ---
 
 Although I've been diligently adhering to the notifications it's still a little early to tell if it's making a difference. I’ll have to write a follow up post one day and let you know how this experiment went.
