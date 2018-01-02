@@ -1442,7 +1442,7 @@ Usage (In Ghost editor):
 .floating-header-title {
     flex: 1;
     overflow: hidden;
-    margin: 0;
+    margin: 1;
     color: #2e2e2e;
     font-size: 1.6rem;
     line-height: 1.3em;
@@ -1559,6 +1559,7 @@ Usage (In Ghost editor):
     .floating-header-title,
     .floating-header-logo {
         font-size: 1.5rem;
+        margin-left: 1em;
     }
     .floating-header-share-tw,
     .floating-header-share-fb {
@@ -1575,6 +1576,7 @@ Usage (In Ghost editor):
     .floating-header-logo a {
         color: #2e2e2e;
     }
+    .floating-active,
     .floating-header-title,
     .floating-header-divider {
         visibility: hidden;
