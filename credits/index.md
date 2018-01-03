@@ -3,7 +3,7 @@ layout: page
 current: credits
 title: Credits
 navigation: true
-logo: 'assets/images/thanks.jpeg'
+cover: assets/images/thanks.jpeg
 class: page-template
 subclass: 'post page'
 ---
