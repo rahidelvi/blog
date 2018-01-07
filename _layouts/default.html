@@ -14,9 +14,9 @@
     <!-- Styles'n'Scripts -->
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}assets/built/screen.css" />
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}assets/built/screen.edited.css" />
-    <!-- highlight.js -->
-    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.3.0/styles/default.min.css">
-    <style>.hljs { background: none; }</style>
+
+    <!-- prism.js styles -->
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}assets/built/prism.css" />
 
     <!-- This tag outputs SEO meta+structured data and other important settings -->
     {% include head.html %}
@@ -71,9 +71,8 @@
         </div>
     {% endif %}
 
-    <!-- highlight.js -->
-    <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
-    <script>hljs.initHighlightingOnLoad();</script>
+    <!-- prism.js -->
+    <script type="text/javascript" src="{{ site.baseurl }}assets/js/prism.js"></script>
 
     <!-- jQuery + Fitvids, which makes all video embeds responsive -->
     <script
