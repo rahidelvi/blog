@@ -7,15 +7,14 @@ This is a full-featured port of Ghost's default theme from [Fábio Madeira](http
 
 ## Features
 
-* Out of the box support for multiple authors (via `_data/authors.yml`)
-* Full author information including: picture, bio, website, twitter, facebook, etc.
+* Full author information including: picture, bio, website, twitter, linkedin, etc.
 * Tag description(s) and personalised covers (via `_data/tags.yml`)
 * Related posts view at the bottom of each post
 * All Ghost default pages: Author page(s), Tag page(s), About page(s), 404, etc.
 * Pagination (infinite scrolling or standard pagination, i.e. posts across multiple pages)
 * Atom Feeds by [Jekyll-feed](https://github.com/jekyll/jekyll-feed)
 * Toggleable subscribe button (requires an external service)
-* Code Syntax Highlight with [highlight.js](https://highlightjs.org/)
+* Code Syntax Highlight with [prism.js](http://prismjs.com/)
 * Support for Google Analytics tracking
 * Support for Disqus comments (not Ghost standard)
 
