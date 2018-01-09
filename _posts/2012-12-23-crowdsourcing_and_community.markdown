@@ -7,7 +7,7 @@ author: rahi
 title: Crowdsourcing and community
 date: '2012-12-23 16:54:00'
 tags:
-- reflections
+- reflection
 ---
 
 ![2 reasons why the term "crowdsourcing" bugs me, by opensourceway][1]

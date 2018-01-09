@@ -7,7 +7,7 @@ author: rahi
 title: Functions and computer literacy
 date: '2012-04-18 16:26:00'
 tags:
-- reflections
+- reflection
 - digital-literacy
 ---
 

@@ -30,10 +30,6 @@ digital-literacy:
   name: digital-literacy
   description: False
   cover: False
-experiments:
-  name: experiments
-  description: False
-  cover: False
 fables:
   name: fables
   description: False
@@ -58,24 +54,12 @@ images:
   name: images
   description: False
   cover: False
-labour:
-  name: labour
-  description: False
-  cover: False
 marketing:
   name: marketing
   description: False
   cover: False
-mindmup:
-  name: mindmup
-  description: False
-  cover: False
 movie-reactions:
   name: movie-reactions
-  description: False
-  cover: False
-netflix:
-  name: netflix
   description: False
   cover: False
 privacy:
@@ -94,10 +78,6 @@ quotes:
   name: quotes
   description: False
   cover: False
-reflections:
-  name: reflections
-  description: False
-  cover: False
 security:
   name: security
   description: False
@@ -114,27 +94,191 @@ transit:
   name: transit
   description: False
   cover: False
-trello:
-  name: trello
-  description: False
-  cover: False
 ttc:
   name: ttc
-  description: False
-  cover: False
-tutorial:
-  name: tutorial
   description: False
   cover: False
 twitart:
   name: twitart
   description: False
   cover: False
+web-apps:
+  name: web-apps
+  description: False
+  cover: False
+leisure:
+  name: leisure
+  description: False
+  cover: False
+tv-and-movies:
+  name: tv-and-movies
+  description: False
+  cover: False
+netflix:
+  name: netflix
+  description: False
+  cover: False
+movies:
+  name: movies
+  description: False
+  cover: False
+shows:
+  name: shows
+  description: False
+  cover: False
+cooking:
+  name: cooking
+  description: False
+  cover: False
+recipes:
+  name: recipes
+  description: False
+  cover: False
+photography:
+  name: photography
+  description: False
+  cover: False
+graphic-design:
+  name: graphic-design
+  description: False
+  cover: False
+travel:
+  name: travel
+  description: False
+  cover: False
+tech:
+  name: tech
+  description: False
+  cover: False
+web:
+  name: web
+  description: False
+  cover: False
+trello:
+  name: trello
+  description: False
+  cover: False
+ghost:
+  name: ghost
+  description: False
+  cover: False
+salesforce:
+  name: salesforce
+  description: False
+  cover: False
+cpanel:
+  name: cpanel
+  description: False
+  cover: False
+softaculous:
+  name: softaculous
+  description: False
+  cover: False
+google-sheets:
+  name: google-sheets
+  description: False
+  cover: False
+slack:
+  name: slack
+  description: False
+  cover: False
+mindmup:
+  name: mindmup
+  description: False
+  cover: False
+desktop:
+  name: desktop
+  description: False
+  cover: False
 ubuntu:
   name: ubuntu
   description: False
   cover: False
-web-apps:
-  name: web-apps
+atom:
+  name: atom
+  description: False
+  cover: False
+chrome:
+  name: chrome
+  description: False
+  cover: False
+extensions:
+  name: extensions
+  description: False
+  cover: False
+virtualbox:
+  name: virtualbox
+  description: False
+  cover: False
+windows:
+  name: windows
+  description: False
+  cover: False
+mobile:
+  name: mobile
+  description: False
+  cover: False
+android:
+  name: android
+  description: False
+  cover: False
+ios:
+  name: ios
+  description: False
+  cover: False
+soul:
+  name: soul
+  description: False
+  cover: False
+parenting:
+  name: parenting
+  description: False
+  cover: False
+infant:
+  name: infant
+  description: False
+  cover: False
+toddler:
+  name: toddler
+  description: False
+  cover: False
+labour:
+  name: labour
+  description: False
+  cover: False
+consulting:
+  name: consulting
+  description: False
+  cover: False
+employment:
+  name: employment
+  description: False
+  cover: False
+pet-projects:
+  name: pet-projects
+  description: False
+  cover: False
+tips:
+  name: tips
+  description: False
+  cover: False
+tutorial:
+  name: tutorial
+  description: False
+  cover: False
+experiments:
+  name: experiments
+  description: False
+  cover: False
+reviews:
+  name: reviews
+  description: False
+  cover: False
+reflection:
+  name: reflection
+  description: False
+  cover: False
+observations:
+  name: observations
   description: False
   cover: False
