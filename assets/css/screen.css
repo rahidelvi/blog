@@ -573,10 +573,6 @@ The first (most recent) post in the list is styled to be bigger than the others 
     text-align: center;
 }
 
-.post-full-tags {
-
-}
-
 @media (max-width: 500px) {
     .post-full-header {
         padding: 14vw 3vw 2vw;
