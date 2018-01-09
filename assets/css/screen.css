@@ -568,13 +568,18 @@ The first (most recent) post in the list is styled to be bigger than the others 
 
 .post-full-header {
     margin: 0 auto;
-    padding: 6vw 3vw 3vw;
+    padding: 6vw 3vw 1vw;
     max-width: 1040px;
     text-align: center;
 }
+
+.post-full-tags {
+
+}
+
 @media (max-width: 500px) {
     .post-full-header {
-        padding: 14vw 3vw 10vw;
+        padding: 14vw 3vw 2vw;
     }
 }
 
@@ -590,6 +595,10 @@ The first (most recent) post in the list is styled to be bigger than the others 
 
 .post-full-meta-date {
     color: var(--blue);
+}
+
+.post-full-tags {
+    font-size: 0.7em;
 }
 
 .post-full-title {
