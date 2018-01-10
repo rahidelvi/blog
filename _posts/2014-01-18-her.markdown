@@ -6,8 +6,7 @@ class: post-template
 author: rahi
 title: Her
 date: '2014-01-18 08:38:00'
-tags:
-- movie-reactions
+tags: leisure entertainment movies reviews
 ---
 
 Her might have been a nicer movie if I hadn’t watched A.I. Artificial Intelligence, or Robot and Frank _and_, if I hadn’t known of John Searle’s Chinese room argument.

@@ -7,14 +7,12 @@ author: rahi
 title: How to import an outline into MindMup
 cover: assets/images/mindmap.jpg
 date: '2017-02-22 01:35:38'
-tags:
-- technology
-- web-apps
-- mindmup
-- tutorial
+tags: tech web mindmup tutorial
 ---
 
-[MindMup][2] is my mind mapping tool of choice. While it’s not as pretty as other options on the market, it more than compensates in function and usability. It’s minimal, super responsive and comes with a neat set of keyboard shortcuts. Build in a little muscle memory and you’ll be manipulating ideas on the canvas with no effort. And if you’re using MindMup with Google Drive, it’s free. Above all, it’s the tool’s real time collaboration capabilities that keeps me coming back to it. It’s like a Google Doc, but with a mind map. Pretty handy for some situations.
+[MindMup][2] is my mind mapping tool of choice.
+
+While it’s not as pretty as other options on the market, it more than compensates in function and usability. It’s minimal, super responsive and comes with a neat set of keyboard shortcuts. Build in a little muscle memory and you’ll be manipulating ideas on the canvas with no effort. And if you’re using MindMup with Google Drive, it’s free, including real time collaboration capabilities.
 
 Sometimes I realize the best tool for the job is a mind map after I've started an outline somewhere else like on a word processor or a slide deck. Sometimes my fellow collaborator started their outline outside a mind map. So how do you bring these kinds of outlines into MindMup?
 

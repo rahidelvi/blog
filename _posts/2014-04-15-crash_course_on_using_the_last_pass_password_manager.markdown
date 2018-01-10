@@ -6,9 +6,7 @@ class: post-template
 author: rahi
 title: Crash course on using LastPass
 date: '2014-04-15 02:41:00'
-tags:
-- security
-- digital-literacy
+tags: tech web extensions lastpass tutorial
 ---
 
 With most of us learning about Heartbleed recently, and the subsequent scramble of web service providers to patch the vulnerability, it appears a consensus is forming around the need for updating your passwords.
@@ -23,4 +21,4 @@ Here's a video I created at work that gives you a crash course on setting up Las
 
 LastPass asks that you only remember one password. It does not store the password, that's your responsibility to remember. The master password you set, however, is used as a key to encrypt and decrypt information you do store in LastPass.
 
-I've been using LastPass for a long time now. &nbsp;The utility of this software makes it a must have for your online toolkit.
+I've been using LastPass for a long time now. The utility of this software makes it a must have for your online toolkit.

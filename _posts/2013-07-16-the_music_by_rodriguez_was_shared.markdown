@@ -6,8 +6,7 @@ class: post-template
 author: rahi
 title: Music. Sharing. Rodriguez.
 date: '2013-07-16 13:59:00'
-tags:
-- reflection
+tags: leisure entertainment movies netflix reflection
 ---
 
 ![The Open Source Renaissance by opensourceway on Flickr.][1]

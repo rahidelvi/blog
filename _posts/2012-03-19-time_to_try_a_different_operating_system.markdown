@@ -6,8 +6,7 @@ class: post-template
 author: rahi
 title: Time to try a different operating system
 date: '2012-03-19 01:40:00'
-tags:
-- technology
+tags: tech desktop  ubuntu experiments
 ---
 
 Moving to a Linux operating system has never been easier for a Windows user. This weekend, I used the wubi installer to load ubuntu, a Debian based GNU/Linux operating system on to my laptop.

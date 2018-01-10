@@ -6,8 +6,7 @@ class: post-template
 author: rahi
 title: Pacific Rim
 date: '2013-07-17 10:06:00'
-tags:
-- movie-reactions
+tags: leisure entertainment movies reviews
 ---
 
 ![Emerging][1]
