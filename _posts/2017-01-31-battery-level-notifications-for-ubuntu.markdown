@@ -7,11 +7,7 @@ author: rahi
 title: Battery level notifications for Ubuntu
 cover: assets/images/Battery.png
 date: '2017-01-31 02:05:37'
-tags:
-- experiments
-- technology
-- ubuntu
-- tutorial
+tags: tech desktop extensions ubuntu experiments
 ---
 
 The power manager on your laptop does an *okay* job letting you know when it needs charging. But it never tells you if it’s been plugged in for too long. The solution? A script that notifies you when it's time to either plug in or unplug your battery charger.

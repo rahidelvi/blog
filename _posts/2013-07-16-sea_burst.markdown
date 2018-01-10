@@ -6,8 +6,7 @@ class: post-template
 author: rahi
 title: Sea burst
 date: '2013-07-16 13:51:00'
-tags:
-- images
+tags: leisure photography
 ---
 
 ![Sea Burst](https://lh3.googleusercontent.com/n__597qm6J-4I2fGVNpuCllD2Td57nomV41zlvtXlBTZc9D2Iu3OI2cgU33SJFLB43T9b6tESaVnuOxrDvd3LP8F64avFDV8KBOToffB81nmL7R7wu6a64KG52DKPmxRBzmbPfSk7vV6UYStQJQeUQpbvfezTS2V8hTVx2sYIAcvKiqkmVme5cYlBAlyTVYq5pzBGvqOFXFnIzsg9Dcbo8euhze-PECk7__vlUtr5IEAnyFcdQRd3gq-pR8Yo997z4jvnqTb_OzsPHS9pE8p6SWkWMos-zK6_I1M-J-1qBSFokHpI0Km3XMFjbqiwcx-ICV09_KOls7MM1glK4RaXE87PQkOuoNlw0xHCbTegG2_jl4ZbslFeFq0aMO3zRcjuVJ-yaYQqeyy6F_T4gYkdnLxI2ze90-3NDexSWgX58_mX22ufvVjfq_RF_qpmcR0QC73wfICKqXhlLOvHCPiJR-mITX2d84lOnTVhdWTiGHa6qUBITjb2qjALehWRkqvV9hCmKX2eN77mXt4QJ_4QyKSv87X-QBo2CqXyTR3aGybSIRKpefebuBjurv63V-GiHyQMbuYcrV7CTSCzEGIpX3mvdUm6cLQIBb4qdRRLHnCU9VN4KwpxQ=s612-no)  

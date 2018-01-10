@@ -6,8 +6,7 @@ class: post-template
 author: rahi
 title: Cloud dunes
 date: '2013-07-19 17:38:00'
-tags:
-- images
+tags: leisure photography
 ---
 
 ![Mammatus clouds][1]  

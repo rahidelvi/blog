@@ -6,9 +6,7 @@ class: post-template
 author: rahi
 title: 'Internet security forecast: Expect stormy weather'
 date: '2013-04-08 02:24:00'
-tags:
-- ict
-- security
+tags: tech reflection
 ---
 
 ![Created by Colleen Simon for opensource.com][1]

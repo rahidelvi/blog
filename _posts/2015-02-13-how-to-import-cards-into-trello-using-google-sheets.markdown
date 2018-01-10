@@ -5,7 +5,7 @@ cover: assets/images/Trello-Imp.png
 navigation: True
 title: How to import cards into Trello using Google Sheets
 date: '2015-02-13 20:12:09'
-tags: technology tutorial
+tags: tech web extensions trello tutorial
 class: post-template
 author: rahi
 ---

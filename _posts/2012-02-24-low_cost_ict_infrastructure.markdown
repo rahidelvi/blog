@@ -6,8 +6,7 @@ class: post-template
 author: rahi
 title: Low cost ICT infrastructure
 date: '2012-02-24 19:06:00'
-tags:
-- ict
+tags: tech reflection
 ---
 
 ![The Open Source Procurement Toolkit: Still crippled by "free"][1]

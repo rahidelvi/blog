@@ -6,8 +6,7 @@ class: post-template
 author: rahi
 title: RebelMouse website embed
 date: '2012-08-04 20:38:00'
-tags:
-- web-apps
+tags: tech web extensions rebelmouse
 ---
 
 Have you had a chance to check out [RebelMouse](http://www.rebelmouse.com/)? It's nice.

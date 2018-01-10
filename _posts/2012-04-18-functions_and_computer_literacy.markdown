@@ -6,9 +6,7 @@ class: post-template
 author: rahi
 title: Functions and computer literacy
 date: '2012-04-18 16:26:00'
-tags:
-- reflection
-- digital-literacy
+tags: tech reflection
 ---
 
 ![What makes Apple Apple, a photo by opensourceway][1]
