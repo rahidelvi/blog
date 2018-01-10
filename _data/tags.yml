@@ -282,3 +282,19 @@ observations:
   name: observations
   description: False
   cover: False
+entertainment:
+  name: entertainment
+  description: False
+  cover: False
+lastpass:
+  name: lastpass
+  description: False
+  cover: False
+humour:
+  name: humour
+  description: False
+  cover: False
+rebelmouse:
+  name: rebelmouse
+  description: False
+  cover: False
