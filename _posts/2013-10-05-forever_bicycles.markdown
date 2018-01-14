@@ -9,8 +9,6 @@ date: '2013-10-05 17:56:00'
 tags: leisure photography transit
 ---
 
-![Forever Bicycles][1]
+![Forever Bicycles][https://i.imgur.com/BZKzNhA.jpg]
 
 Forever Bicycles, 2013 - Ai Weiwei
-
-[1]: https://lh3.googleusercontent.com/A-hox24sIXTqxm9ziLQskk_YhixbT2y-qH0Evpp5R3R6uob1-ULue4R7361J0Hp4xQwKicXn2WtmHDgSimV6cobUSWEZ7gVzlEHqU-MyXz5qQ8bEqWqJY_Cxwf-qUN1sERhwkxUkeQDFiSbSDluTYWMQmmGRHBatDifs58IOBRcyDfL_wecvrLbW-MmQo5rkexciYW4Xlqg2QnmPFqzi4cCW4t_pOP1Bga3uNn4q0-iZgZy9g3vjzmIMhUc9yUjSp6SCJ3eRpz5D7de2aoWpwWxLgBkWqAzN46lUA8nSkdqCrhQQh_dQgIbnglXAJm8fpTQh8jw01hghb-W4HCxyfJLrXPzoCP5lnaEfQPlx8nKaVNZfzEUguuK9hexeOK8uIbibIfbG--5zBlFoRuta0M4hMiyA9AR2Z5oHexaB6QsjZEB1ekDMou7mn3QVacCPgs2lvlglHRij9VsUaC0UQ9duXXhYI6t1WCWlpyOX-p5EMK9Il7h6c5hw6u1OF1m0uChjQ3C0TPw22PYqDZW_vDx37Gq1sm_5fvFraIFjY_0RyADlJGMuWM3kfolEfm8QpiZ97FgANFeChtX4noAmOAABlDOxuD7hQPFM0aDVitjGeAXgZxZ0sg=s612-no

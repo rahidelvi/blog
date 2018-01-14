@@ -11,6 +11,7 @@ tags: leisure graphic-design canva reflection
 
 ![Google Confirmation Bias][1]
 
-Tweet by [Dan Gardner](https://twitter.com/dgardner/status/409369413805019136 "@dgardner ").
+Tweet by [Dan Gardner][2].
 
-[1]: https://lh3.googleusercontent.com/9LhFDZKm8OJg_pPLRRVbBK0WLfQhkLSvmNBpZ7JSOwPvwCwBHwspRCp4CaTdZwJbyjTy7vNXcDoPzDqafc5D0oJPjBHsgaLYmLjR7OF4JKHABaLOdNrh3sXOjM2IhXUovMqP-dk1gIaOm74teDKR56DM98nv0eLT9K18ZQqERcqae7B6sMSaNkzLX6BDbtCuCWnBLvl8tsS9wpUN6J5htDg0fexuGkcO-ZRgRFOs3gwM5XSYicBNTKgL9EvyoPCZEm0icOTRuWHSYAtItEBy0tspyxRybOdCQSJxeKrEwHYetRvYo8R19ksFUnQfgSMyRCCy7nut2fxR9KiMTHHeoZbkiiqAsfiAnzNz4Xywc06XYDYPXSP0ymg-TfxB-o4ZyurzKs0dN0Ck7modw_I18gSr0rRhhcQofAK3bNAvaH4eHg5km9sHIw8FeP1pAGvcbJLiPrCbq74jNIMdUc4yphmVnIToP2g7LhorEBVdj6zSBcVsL9q7P1BczXDxmodhWXAupsGZOoPJazXJIEanyzHo_qHdCUa03VDYwUhgWGUGLGHMU4rnT73O0So2Ep6rkuIkubsXNh9wPWUTYPSHT6lHXrpxcPxtb7SUmNIKwqFVxAcaTTmN0A=w923-h692-no
+[1]: https://i.imgur.com/gjHkIvB.png
+[2]: https://twitter.com/dgardner/status/409369413805019136

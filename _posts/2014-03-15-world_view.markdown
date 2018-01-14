@@ -9,8 +9,6 @@ date: '2014-03-15 16:43:00'
 tags: leisure graphic-design
 ---
 
-![World View][1]
+![World View][https://i.imgur.com/RGNSKka.png]
 
 World View worldview.
-
-[1]: https://lh3.googleusercontent.com/txgSZj8t7L9D_sgP_VuG0LgRCCxCM6DDmwEsNYMEB6mxmbaSwOe2NogOv-1k_PNKks-JoYSeGfiH-nIxrcww9R_z3Y58ITNmjw76x0hTPFHmzBRKYw3aYTKYrHFplYDbjxTIJiBDT1f5LcX4NyBdePyShVYc1oRe8bGIdTMaVaAEyQxODIh6dmWJmgxkWWq5k03Fh0mV_PbiC2bzrJNt9ctEMgIA_M5e78aOtOyHPz-qwAvxLqpzOx00vKlsei3mygePQTS0An4dsPz6GNxuFB9cDBJq11qWaESvyjsWOY37Fa2celM_pg_qPYs9pX9FhpK0CqiQ-trxF1UYE1w7O88ldDsm9unWwAT77xYqx8GJTJ6lQU4ibv11lFx34CuLPwjNEt3czdsJHjSDtHR3x212Xi3rD4McX5KfdN7Jbp5cdPeXYX8qM6YTG9i1eaYTBr5tZP1lv_VEIl7WsBx9NblpPPYs5wunS_gf_gDz7K1KgcHjgRZa2FsruE-AuiOWBRMxcFzz7bH2zMZh6h2tiy0y2ys7M7TdN0CxhvKtOs0rt5xa6XMfrmXiCq67qpn5Id2ht2WtJKL2lndT-dREAYMMUQxn_6X9NpEgpVENv8iK1loNwp8EGA=w490-h692-no

@@ -11,6 +11,8 @@ tags: leisure graphic-design canva humour
 
 ![Prints 3D Printer][1]
 
-Tweet by [@KimDotcom](https://twitter.com/KimDotcom/status/434537715363635201)
+Tweet by [@KimDotcom][2]
 
-[1]: https://lh3.googleusercontent.com/zjXaEztbDbUWu4_1lCYjy_KtaNZrRNMTEhgJ62ISWQc5WHcNnPvi5vFaG0ocOF6TEx2uw8L6VmnJB8ODqL-Uw9iOnG7XooU4p3NtlfSCGMRDiWuCu7l6QXx7ESe8Gl7KobYkCxPvgqzFyrBDXVw4NXFJ4sDuFKcGf_10pKioM_69iUp_e1q2NMfRchvheODjJNckn8mfkqQq3S4JGEbdoH7XS6ktbGngnxi2XdMyXksmwZV73LXa38SHdr4HtJsk3l67nzdZcM_gyd3oJrp8qOqsOb86SjFRRGiOuQEFtjbkPA6YbK3S_0tjdLTsWQ35-Qpd86xnipavnaxPn77NygPjZG5IBipviNP_y9QipaVo7jVty2jbgWTktkPo0HiYH37rs3JU5yufG7ebjywvonVJZs9psU4Ar3bvxwuik1mbLUaUtYe3sEO4yLuvXdeJjRjioKs3qRRmRXTj5Q2ZxwwL-rY18xCZwbFlMeZtkl7ouUZ2D6lbmr0pcnT51lRio1gKzpji7lXAiriC3x3DxvKwwwp4NlG2PwLZpxe2vtpiV2LicFvl1ITqmfKhOkV8FNZ23A-9NuyMZ0K97HtmTFpr7iF65_5DOmSHaImfuSE5EGj8wmF35w=w462-h692-no
+[1]: https://i.imgur.com/YP42UlC.png
+
+[2]: https://twitter.com/KimDotcom/status/434537715363635201

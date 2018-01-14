@@ -25,4 +25,4 @@ The faulty instruction could be executing down at the code layer, like what happ
 
 And that's the good news, computers still respond to input. Fix the input, and if the 'function' or 'black box' is alright, your output should be too.
 
-[1]: https://lh3.googleusercontent.com/1tQ0CToZ6Dd4mP7qc29HqQn-hl-guga7_qew7kyZGDseu9A_uDutzpBsni4TKyz8ytZ2bVIGYAXHhPJOcUDtIDox9xAMunlpbpGermXVmOxfme3i4aGaq6AhYGY9bdRoIsLpMUdCyLGQpOw_3z7K2gGknZpfjMVuIdRx-Wgp0isPHPqHvH5j2Q4Rd-6ul6J_ZL_mMZ4uFvY5Za5oEOPwXTnWGBByWvyRSpqF9pHyTMIrfqspEiiBT5jfU0wR0UZeuk_HYLIxMbw1-BD9DIQpMO-PyyWbR32nnEjwxTZwksftupZT4n7gsIuHHeVk1wyVAazEi1k8Zj0wYhBeN90vyUm4st_zRnscnVOKN_iWxDuwQLFdkQZ6TaoxsbdgpkIplXl92KscJN5X03s_uUOJ5H8-hLORaWPDEba8wyTs7fiqEsLH2lXPMSIEo5TpUPiCZyeP3MRCyBOBug9RxJZvf9W-KRUCMES5DaHbFgXe7kMtX9de97eJWmS_kt9P3HWhNlfc1RNJH2QF0dW_u_oDFhF3924qvnppqN8jlOLD8EtXfspFdmxa-t2vYyWcj9OoYXzTGAJ9Ob9dSnnrSNa4uT6NqouGt8qJ6qKFszmgXhGB9X4jFdmLVw=w500-h281-no
+[1]: https://i.imgur.com/Mt1HN5Q.jpg

@@ -9,8 +9,6 @@ date: '2014-06-05 06:04:00'
 tags: leisure photography reflection
 ---
 
-![Kitchen Windowsill][1]
+![Kitchen Windowsill](https://i.imgur.com/DkLxoVf.jpg)
 
 Kitchen Windowsill
-
-[1]: https://i.imgur.com/DkLxoVf.jpg
