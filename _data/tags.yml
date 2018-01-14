@@ -298,3 +298,7 @@ rebelmouse:
   name: rebelmouse
   description: False
   cover: False
+vivaldi:
+  name: vivaldi
+  description: False
+  cover: False
