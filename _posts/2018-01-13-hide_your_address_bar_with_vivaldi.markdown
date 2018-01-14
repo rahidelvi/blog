@@ -27,5 +27,5 @@ You set it up like this.
 
 I still use Chrome for its convenient `Add to desktop` feature to access my email, calendar, task manager and other apps in standalone windows, but Vivaldi is where I work on my projects.
 
-[1]: https://i.imgur.com/sTu5hKO.gifv
+[1]: https://i.imgur.com/sTu5hKO.gif
 [2]: https://i.imgur.com/mpFuOaz.png
