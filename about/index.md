@@ -10,9 +10,9 @@ subclass: 'post page'
 
 ![Work Learn and Play][1]
 
-Thanks for visiting my blog. I don't post as often as I'd like, it's all regrettably contingent on time and motivation.
+Thanks for visiting my blog. I don't post as often as I'd like. It's a little contingent on time and motivation. Mostly time I'd say.
 
-Ideas benefit from periodic revision. Mine certainly do. So, 'flip-flopping' wholeheartedly embraced here.
+Ideas benefit from periodic revision. Mine certainly do. So 'flip-flopping' wholeheartedly embraced here.
 
 I'd love to hear from you. Feel free to leave a comment on any post or get in touch by [one of these options](https://rahidelvi.ca/contact.html).
 
