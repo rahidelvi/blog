@@ -12,15 +12,13 @@ tags: tech desktop vivaldi tips
 
 Want a little more screen real estate?
 
-The Vivaldi browser has become my daily driver for much of my _config_ work at GrantBook.
+The Vivaldi browser has become my daily driver for much of my _config_ work at GrantBook. Here's one reason why.
 
 I use the `CTRL` + `L` shortcut a fair bit to jump to the address bar with my keyboard. Because that's easy to remember, `CTRL` + `SHIFT` + `L` hides my address bar in Vivaldi. On some websites I find you just don't need it.
 
 You set it up like this.
 
 ![Vivaldi Config][1]
-
----
 
 I still use Chrome for its convenient `Add to desktop` feature to access my email, calendar, task manager and other apps in standalone windows, but Vivaldi is where I work on my projects.
 
