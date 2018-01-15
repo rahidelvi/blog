@@ -14,7 +14,7 @@ Want a little more screen real estate?
 
 The Vivaldi browser has become my daily driver for much of my _config_ work at GrantBook. Here's one reason why.
 
-I use the `CTRL` + `L` shortcut a fair bit to jump to the address bar with my keyboard. Because that's easy to remember, `CTRL` + `SHIFT` + `L` hides my address bar in Vivaldi. On some websites I find you just don't need it.
+I use the `CTRL` + `L` shortcut a fair bit to jump to the address bar with my keyboard. Because that's easy to remember I've setup `CTRL` + `SHIFT` + `L` to hide my address bar in Vivaldi. On some websites I find you just don't need it.
 
 You set it up like this.
 
