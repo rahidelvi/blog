@@ -5,7 +5,7 @@ navigation: True
 class: post-template
 author: rahi
 title: How to import an outline into MindMup
-cover: assets/images/mindmap.jpg
+cover: https://i.imgur.com/H0zNQVl.jpg
 date: '2017-02-22 01:35:38'
 tags: tech web mindmup tutorial
 ---

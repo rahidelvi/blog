@@ -5,7 +5,7 @@ navigation: True
 class: post-template
 author: rahi
 title: Citizenfour
-cover: assets/images/escf.jpg
+cover: https://i.imgur.com/uTbuJBI.jpg
 date: '2014-12-31 03:33:29'
 tags: leisure entertainment movies reviews
 ---

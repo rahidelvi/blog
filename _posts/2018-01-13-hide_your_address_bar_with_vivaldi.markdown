@@ -5,6 +5,7 @@ navigation: True
 class: post-template
 author: rahi
 title: Hide your address bar with Vivaldi
+cover: https://i.imgur.com/sTu5hKO.gif
 date: '2018-01-13 10:35:00'
 tags: tech desktop vivaldi tips
 ---

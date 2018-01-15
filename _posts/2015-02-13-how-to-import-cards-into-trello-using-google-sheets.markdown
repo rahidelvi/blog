@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: assets/images/Trello-Imp.png
+cover: https://i.imgur.com/FQxzkGK.png
 navigation: True
 title: How to import cards into Trello using Google Sheets
 date: '2015-02-13 20:12:09'

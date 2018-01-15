@@ -18,14 +18,14 @@ It's a good idea to keep this template as minimal as possible in terms of both f
     <meta name="HandheldFriendly" content="True" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}assets/css/screen.css" />
-    <link rel="stylesheet" type="text/css" href="https://demo.ghost.io/assets/built/screen.css?v=724281a32e" />
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}assets/built/screen.edited.css" />
     <!-- This tag outputs SEO meta+structured data and other important settings -->
     {% include head.html %}
 </head>
 <body class="error-template">
     <div class="site-wrapper">
 
-        <header class="site-header outer {% if page.cover %}" style="background-image: url({{ site.baseurl }}{{ page.cover }})){% else %}no-cover{% endif %}">
+        <header class="site-header outer {% if page.cover %}" style="background-image: url({{ page.cover }})){% else %}no-cover{% endif %}">
             <div class="inner">
                 <nav class="site-nav-center">
                     {% if site.logo %}
@@ -42,8 +42,8 @@ It's a good idea to keep this template as minimal as possible in terms of both f
 
                 <section class="error-message">
                     <h1 class="error-code">404</h1>
-                    <p class="error-description">Page not found</p>
-                    <a class="error-link" href="{{ site.baseurl }}">Go to the front page →</a>
+                    <p class="error-description">Yike! Page not found.</p>
+                    <a class="error-link" href="{{ site.baseurl }}">This way to the front page →</a>
                 </section>
             </div>
         </main>
