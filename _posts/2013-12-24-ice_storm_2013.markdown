@@ -9,6 +9,6 @@ date: '2013-12-24 15:15:00'
 tags: leisure photography reflection
 ---
 
-![Ice Storm 2013][https://i.imgur.com/mWZh3aY.jpg]
+![Ice Storm 2013](https://i.imgur.com/mWZh3aY.jpg)
 
 The ice storm of 2013 in Toronto was one of the most beautiful experiences of my life.

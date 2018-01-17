@@ -9,6 +9,6 @@ date: '2014-05-15 14:46:00'
 tags: leisure photography transit
 ---
 
-![New streetcars heading our way][https://i.imgur.com/btEvOPK.jpg]
+![New streetcars heading our way](https://i.imgur.com/btEvOPK.jpg)
 
 New streetcars heading our way #TTC

@@ -9,6 +9,6 @@ date: '2013-10-04 07:31:00'
 tags: leisure photography
 ---
 
-![CSI Annex][https://i.imgur.com/w13oH3S.jpg]
+![CSI Annex](https://i.imgur.com/w13oH3S.jpg)
 
 CSI Annex in the summer.
