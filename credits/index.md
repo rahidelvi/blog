@@ -3,7 +3,7 @@ layout: page
 current: credits
 title: Credits
 navigation: true
-cover: assets/images/thanks.jpeg
+cover: https://i.imgur.com/hqUrvyh.jpg
 class: page-template
 subclass: 'post page'
 ---
