@@ -20,7 +20,7 @@ Yes, blowing the whistle was and *is* a big deal.
 
 But the movie also feels like a missed opportunity.
 
-I'd loved to have seen it tackle topics related to civic engagement and what it means to live in a modern democracy. And, the question of liberty, why is it so important to preserve? It touches on these topics and other topics, yet fails to delve meaningfully into any one of them.
+I'd loved to have seen it tackle topics related to civic engagement and what it means to live in a modern democracy. And, the question of liberty, why is it so important to preserve? It touches on these and other topics, yet fails to delve meaningfully into any one of them.
 
 I left thinking that Snowden is a pretty grounded individual and that the journalists working with him were doing a good job.
 
