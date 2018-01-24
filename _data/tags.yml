@@ -302,3 +302,7 @@ vivaldi:
   name: vivaldi
   description: False
   cover: False
+google-docs:
+  name: google-docs
+  description: False
+  cover: False
