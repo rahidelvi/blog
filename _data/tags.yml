@@ -306,3 +306,7 @@ google-docs:
   name: google-docs
   description: False
   cover: False
+gmail:
+  name: gmail
+  description: False
+  cover: False

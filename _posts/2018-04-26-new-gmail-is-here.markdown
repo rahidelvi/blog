@@ -1,0 +1,23 @@
+---
+layout: post
+current: post
+navigation: True
+class: post-template
+author: rahi
+title: Yay! The new Gmail is here
+cover: https://i.imgur.com/hxkNPEB.jpg
+date: '2018-01-23 21:21:00'
+tags: tech desktop gmail observations
+---
+
+I :heart: the new Gmail. I am especially glad they didn't get rid of _Multiple Inboxes_ and the awesome keyboard shortcuts.
+
+I like the whitespace implementation in Inbox by Gmail better, the other cool stuff is now available in Gmail. Namely, hover actions, snoozing emails, quick reply and a better UI in some respects (hiding the nav menu on the left for example (that was just a pet peeve of mine).
+
+The bonus feature is the calendar and keep integration. Those are pretty cool. Tasks are what they always were, but the improved UI is nice.
+
+After having _Inbox by Gmail_ be my daily driver on both desktop and mobile for long time now, I'm tempted to switch.
+
+---
+
+Photo by [Anomaly](https://unsplash.com/photos/oRskqiH7FNc?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/new-gmail?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
