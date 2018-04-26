@@ -6,7 +6,7 @@ class: post-template
 author: rahi
 title: Yay! The new Gmail is here
 cover: https://i.imgur.com/hxkNPEB.jpg
-date: '2018-01-23 21:21:00'
+date: '2018-04-26 10:21:00'
 tags: tech desktop gmail observations
 ---
 
