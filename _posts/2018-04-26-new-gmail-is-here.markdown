@@ -10,7 +10,7 @@ date: '2018-04-26 10:21:00'
 tags: tech desktop gmail observations
 ---
 
-I :heart: the new Gmail. I am especially glad they didn't get rid of _Multiple Inboxes_ and the awesome keyboard shortcuts.
+I love the new Gmail. I am especially glad they didn't get rid of _Multiple Inboxes_ and the awesome keyboard shortcuts.
 
 I like the whitespace implementation in Inbox by Gmail better, the other cool stuff is now available in Gmail. Namely, hover actions, snoozing emails, quick reply and a better UI in some respects (hiding the nav menu on the left for example (that was just a pet peeve of mine).
 
