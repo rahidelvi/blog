@@ -10,6 +10,6 @@ subclass: 'post page'
 
 <p style="text-align: center; line-height: 3em;">
 {% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
-{% assign tags = site_tags | split:',' | sort: 'title' %}
+{% assign tags = site_tags | split:',' | sort %}
 {% include tagcloud.html %}
 </p>
