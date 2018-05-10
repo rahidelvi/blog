@@ -57,5 +57,6 @@ exclude:
   - README.md
   - Gemfile
   - Gemfile.lock
+  - package.json
   - changelog.md
   - vendor
