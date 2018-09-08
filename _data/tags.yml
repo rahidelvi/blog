@@ -310,3 +310,7 @@ gmail:
   name: gmail
   description: False
   cover: False
+command-line:
+  name: command-line
+  description: False
+  cover: False
