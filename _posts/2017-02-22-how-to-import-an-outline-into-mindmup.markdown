@@ -12,6 +12,16 @@ tags: tech web mindmup tutorial
 
 [MindMup][2] is my mind mapping tool of choice.
 
+*Update Sep 2, 2018*
+
+Thankfully, this post is completely out of date!
+
+MindMup now makes it _ridiculously easy_ to import outlines into the tool.
+
+Check out the the [feature request update][13] and a [demo of the new feature][14].
+
+---
+
 While it’s not as pretty as other options on the market, it more than compensates in function and usability. It’s minimal, super responsive and comes with a neat set of keyboard shortcuts. Build in a little muscle memory and you’ll be manipulating ideas on the canvas with no effort. And if you’re using MindMup with Google Drive, it’s free, including real time collaboration capabilities.
 
 Sometimes I realize the best tool for the job is a mind map after I've started an outline somewhere else like on a word processor or a slide deck. Sometimes my fellow collaborator started their outline outside a mind map. So how do you bring these kinds of outlines into MindMup?
@@ -90,3 +100,5 @@ Ideally you pick the right tool for the task early in your creative process. But
 [10]: https://lh3.googleusercontent.com/u5WghAXGydS4hmNp8XTT2eU6OIg5pjuumVt4gOHd80eTkFAn5rRJInUX9s0NpMBPT9YuofhvoYpdJ_4v5k8-YPvqQEHKxiT4HySzY-W3vldHbNhQgdD9TV9BPM8M8T7M0DnNhnryoFRWdLqHFj05entfY0Z7FrvJfEGBiQC9ZWaHFiKsQla1RnCdkiJc44sce5PwwWl3NTIFr2-KWxudkCb42E3IXQB0-qolXcwkiVgJEWF1a8MK_CUsuWYJ2WngO3hwlYjau0aQPS4WNt453TK3ViH016_F8ZAAe6q6t8ReHvxkJbGOqUGePST8MUs_KYjNDFcfsO8PgXLbdrl3IJbRigzQ5ic7J_M2hUlIaIcfj2SnIzGU353FWAi83V2ZRyd1aYjfwXlCuVbjR-hRgul61u968l9nZwByawlJFNrGSUFEhNwdcpyU1_17RwDI4GGze87LSnbt8kwzP-obUfY4yKfIlLhNBjc1uDPBjH1oU-KgbSCvM1ar42mty4Dm60acDtNKMs11NNcDNHslLw59l5TwiCacZogl3uneB3Z1Kd1-tNmLDsDIWexUcwIvhScUVS0_U6FVH1I2198hEQy5kSEpGOxAbvlwKVMrIrwaqzOHErESUQ=w1274-h690-no
 [11]: https://lh3.googleusercontent.com/8Vl8o6NtTDFlwY04EmGvlKVgUdy51grGtH54x5A8YtBEoafuwAV6J-myluRH_UDXhZNOFNwxhDbFtDJEXfVC9ZoOFeEcL3lPa-7l0cNuUd4O6I0qqyCyyYceM6IuUOX1p1DBWw9dgVSb_Zx_fq2D7-zWjQTsShsyUEl_NsRr8ppGTRVOQ4vsKul845lhyekfj05PhMa5AjAgnNlU1UHnZSjHp2UoPbYr80ziJtOU5v3QGh-rsgAY4A1w_cURUrAvTReMc4OoaPIksziK0IgCThITz8tDXKeKq-75LYvbq0cQ-ThP0VXkWlTyuCIN4vOr3M8XIpJj6Nu8DEms2MpBLuBr79d1cZ8p21ZeZWXoQjQ_9ErjTfLuEAhvgil9r_XW6R4K4-8VCeplLrmVsgeIASYCTnWjUrcjO18-UoP7uzT0eXJmt94MCuXzVzbrVmHwHIN7M_CoBWHB4zv2pPZFgwTBjOb9ZouHvvq0GOrdHfwbBJsZaPl0zxvt-kJHI32eMN5_CmcUj2zbXoq9yYzAwbyzmjnxIpfTxIa7oHcqO2Uc0CzNO3CjlGW7grvAPgcjgl2MWOJzVp4Cep2fnFnsGPhXDZRRfcp6n80qo_2ZnccV8A5Bu3LdQQ=w1274-h690-no
 [12]: https://lh3.googleusercontent.com/j6gSo0j8empqd5Kizq1nmavgdVi8Z69FpDWnFYIlRqGxeIBEssEd22-_D0-b61nuY_5I09KZvFPjZsgJsefENwXjGYs9tTTeHgGlO_X6aqrfkeKeNulho7JCeLwza9k4wxCGykjjI5M_2QmenP9mxh921SF5vQa3SI0r6z-MBhrvE5yGObjib4cBxd-F0DGC8YBq5yvg4LHvQ50wUWR91FxeJPpJeuRO85y9PsnagWUWw-Z1Kr2i93TQbpXQXF0JJYNaObb6_Bn-Do1caD5cFzalTLZCaazSLGeJLwLtuBxgVz-G3oH4GSHI7L13M9p4JyEGmTRK1QCqxY9_phlcn-2RdQKy0z9CPAHi9BcCxxOdgz9d-qUCDIfRrjxH71inUVKsxWylOk2UOnYvtX18c09Oo0sVXH_C6za4tcUMwn_dGqeR2cjtU29qatQKjwWoDeKZ8jOoUdb8Pc45l2nrDwu0zNZQcNjMJt62w2UgHgPUsekuufWzNMdhDigPsuVRcljL73dmbsRXGpGHZZZ1Gj59rU6BXiMA2oFbWYr-XNuDtSbUp7tWz6ukXygdjMJdsHSf7EKZbINr13UojKYUBUAIuzzjH1EhmpQtkvD6OVBGqOKa-dcmpA=w1274-h690-no
+[13]: https://mindmup.uservoice.com/forums/200447-what-should-we-focus-on-next/suggestions/11343375-create-child-nodes-via-copy-and-paste-of-text-with
+[14]: https://www.youtube.com/watch?v=iCLpvyRXrh0
