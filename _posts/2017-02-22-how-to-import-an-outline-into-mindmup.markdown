@@ -14,11 +14,7 @@ tags: tech web mindmup tutorial
 
 *Update Sep 2, 2018*
 
-Thankfully, this post is completely out of date!
-
-MindMup now makes it _ridiculously easy_ to import outlines into the tool.
-
-Check out the the [feature request update][13] and a [demo of the new feature][14].
+Thankfully, this post is completely out of date! MindMup now makes it _ridiculously easy_ to import outlines into the tool. Check out the [feature request update][13] and a [demo of the new feature][14].
 
 ---
 
