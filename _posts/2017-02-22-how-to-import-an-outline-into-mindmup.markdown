@@ -21,7 +21,7 @@ Sometimes I realize the best tool for the job is a mind map after I've started a
 
 *Update Sep 2, 2018*
 
-Thankfully, the Feb 22, 2017 post is completely out of date! MindMup now makes it _ridiculously easy_ to import outlines into the tool. Follow these links to see the [feature request update][13] and a [demo of the new feature][14].
+Thankfully, my earlier post is completely out of date! MindMup now makes it _ridiculously easy_ to import outlines into the tool. Follow these links to see the [feature request update][13] and a [demo of the new feature][14].
 
 ---
 
