@@ -13,7 +13,7 @@ published: true
 
 I love the new Gmail. I am especially glad Google didn't get rid of _Multiple Inboxes_ and the awesome keyboard shortcuts.
 
-I do like the whitespace implementation of Inbox by Gmail better but the other cool stuff is now in Gmail. Namely, hover actions, snoozing emails, quick reply and a better UI in some respects (not being able to hide the nav menu on the left for example was a pet peeve of mine).
+I do like the whitespace implementation of Inbox by Gmail better but the other cool stuff is now in Gmail. Namely, hover actions, snoozing emails, quick reply and a better UI in some respects (not being able to hide the nav menu on the left in the old interface was a pet peeve of mine).
 
 The bonus features are the calendar and keep integrations. Those are pretty cool. Tasks are what they always were, but the improved UI is nice.
 
