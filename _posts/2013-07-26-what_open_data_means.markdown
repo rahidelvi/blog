@@ -1,14 +1,15 @@
 ---
 layout: post
 current: post
-navigation: True
+navigation: true
 class: post-template
 author: rahi
 title: What 'open data' means
 date: '2013-07-26 19:29:00'
 tags: leisure graphic-design reflection
+published: true
 ---
 
-![What “open data” means – and what it doesn’t by opensourceway on Flickr.][https://i.imgur.com/yMVJiKE.png]
+![What “open data” means – and what it doesn’t by opensourceway on Flickr.](https://i.imgur.com/yMVJiKE.png)
 
-Here's one way of thinking about 'open data'. 
+Here's one way of thinking about 'open data'.
