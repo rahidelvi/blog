@@ -58,14 +58,15 @@ Now you can edit `/assets/css/` files, which will be compiled to `/assets/built/
 ## Thanks
 
 
-Many thanks to the Ghost team for all the design work. Also many thanks to all contributors, that help keeping the project alive and updated :smile:
+Many thanks to the Ghost team for all the design work. Also many thanks to all contributors,
+that help keeping the project alive and updated :smile:
 
 
 ## Copyright & License
 
 Same licence as the one provided by Ghost's team. See Casper's theme [license](GHOST.txt).
 
-Copyright (C) 2015-2017 - Released under the MIT License.
+Copyright (C) 2015-2018 - Released under the MIT License.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 

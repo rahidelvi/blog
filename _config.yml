@@ -39,8 +39,8 @@ permalink: /:title
 # Tags' info in `_data/tags_info.yml`
 
 # gems and other configs
+plugins_dir: [_plugins]
 plugins: [jekyll-paginate, jekyll-feed, jemoji]
-exclude: [vendor]
 
 feed:
   path: feed.xml
@@ -54,9 +54,17 @@ feed:
 # ...
 
 exclude:
-  - README.md
+  - assets/css
+  - node_modules
+  - vendor
   - Gemfile
   - Gemfile.lock
+  - GHOST.txt
+  - gulpfile.js
+  - LICENSE
   - package.json
+  - README.md
+  - script.py
   - changelog.md
-  - vendor
+  - "*.Rmd"
+  - .git*
