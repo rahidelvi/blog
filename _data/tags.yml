@@ -30,6 +30,14 @@ digital-literacy:
   name: digital-literacy
   description: False
   cover: False
+fables:
+  name: fables
+  description: False
+  cover: False
+fiction:
+  name: fiction
+  description: False
+  cover: False
 fundraising:
   name: fundraising
   description: False
