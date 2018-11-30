@@ -1,18 +1,19 @@
 ---
 layout: post
 current: post
-navigation: True
+navigation: true
 class: post-template
 author: rahi
 title: Parsing Salesforce attachments for import
-cover: https://i.imgur.com/PwPsLY3.jpg
+cover: 'https://i.imgur.com/PwPsLY3.jpg'
 date: '2018-09-07 21:41:37'
 tags: tech desktop web command-line salesforce tutorial
+published: true
 ---
 
 I found deleting and renaming files en masse via the command line _based on a list_ super handy for a recent Salesforce data preparation task.
 
-I was working on a Salesforce to Salesforce migration and of some 56K attachments in the legacy instance I had to isolate less than 2K attachments and prepare them for import into the new instance. I was working with a complete data export from Salesforce including all attachments.
+I was working on a Salesforce to Salesforce migration and of some 56K attachments in the legacy instance I had to isolate less than 2K and prepare them for import into the new instance. I was working with a complete data export from Salesforce including all attachments.
 
 When you extract the Salesforce data export zip files you'll see an `Attachments.csv` that lists all attachments, and an _Attachments_ directory that contains the file binaries. You may have to extract several zip files depending on the volume of attachments. I consolidated them from several zip extracts into one directory.
 
