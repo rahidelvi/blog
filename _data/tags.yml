@@ -314,3 +314,7 @@ command-line:
   name: command-line
   description: False
   cover: False
+squamish:
+  name: squamish
+  description: False
+  cover: False
