@@ -5,7 +5,7 @@ navigation: True
 class: post-template
 author: rahi
 title: Functions and computer literacy with a twist
-cover: 'https://i.imgur.com/duRy1U2.png'
+cover: 'https://i.imgur.com/cQMqX6f.png'
 date: '2019-03-10 11:26:00'
 tags: tech web consulting observations reflection
 ---
