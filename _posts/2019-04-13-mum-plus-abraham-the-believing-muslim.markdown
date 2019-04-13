@@ -14,7 +14,7 @@ English Translations on Abraham, who was a Muslim according to the Cherisher's w
 
 ### The hunch
 
-- Jamie Kennedy in a YouTube video about his rules for success in life led me to learn a bit more about Johnny Carson
+- Jamie Foxx in a YouTube video about his rules for success in life led me to learn a bit more about Johnny Carson
 - I trust Jamie Kennedy from what I've observed, he seems _like nice guy_ (you've got to say that with Russell Peter's accent)
 - That led me to this video of a person who reminds me of my mother Vidyavathi Shastry-Delvi
 
