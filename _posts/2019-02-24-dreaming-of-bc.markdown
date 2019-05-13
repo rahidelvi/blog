@@ -25,8 +25,6 @@ Yep.
 
 Simple.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SuMmYN6asIs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 I _saw_ the treetops 🌲 of Squamish, equipped with virtually (aka nearly) nothing but a radio tower and what I might have been wearing, in my dream.
 
 Say again?
