@@ -5,7 +5,7 @@ navigation: True
 class: post-template
 author: rahi
 title: Grantbook: signs of burnout before the 🔥
-cover: https://i.imgur.com/o2REVrp.png
+cover: 'https://i.imgur.com/o2REVrp.png'
 date: '2019-05-13 14:47:00'
 tags: soul labour employment parenting reflection
 ---
