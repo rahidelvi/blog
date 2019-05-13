@@ -318,3 +318,7 @@ squamish:
   name: squamish
   description: False
   cover: False
+twitter:
+  name: twitter
+  description: False
+  cover: False
