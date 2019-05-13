@@ -4,7 +4,7 @@ current: post
 navigation: True
 class: post-template
 author: rahi
-title: Grantbook: signs of burnout before the 🔥
+title: Grantbook: signs of burnout before the fire
 cover: 'https://i.imgur.com/o2REVrp.png'
 date: '2019-05-13 14:47:00'
 tags: soul labour employment parenting reflection
@@ -14,7 +14,7 @@ tags: soul labour employment parenting reflection
 
 Let's just say everything came to a head in December 2018.
 
-### The signs of a proper fire 🧯
+### The signs of a proper fire 🔥
 
 My online "persona" on Twitter is generally what I've heard called the "_prowling_" type, aka listening most of the time and weighing in occasionally. Boring..., yawn.
 
