@@ -37,12 +37,6 @@ Say again?
 
 So that's part of my 2019 hopes. Stitch together enough dollars to take care of home duties and well..., personal interests.
 
-Personnel? I don't have any.
-
-Malik is a name of the creator. It's usually translated as "Ruler" and things like that. Semantics, see? To me, it's more personal. If I had to expound the value, it would be a servant leader. But another name for the creator is Al-Ghani. The master with no needs. Absolutely.
-
-Ain't that 🆒!
-
 ---
 
 Photo by [Jeremy Allouche](https://unsplash.com/photos/AcTtP4qX0bQ) on Unsplash
