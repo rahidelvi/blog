@@ -10,7 +10,7 @@ date: '2019-05-13 14:47:00'
 tags: soul labour employment parenting reflection
 ---
 
-2018 was a difficult year in so many respects. The stress reached a crescendo resulting primarily from a unbelievably poorly managed work environment. The domestic front was, believe it or not, getting much better _after_ I announced my departure from Grantbook in September 2018. Grantbook needed to manage the so-called "optics" of my departure given prior managing directors' were ousted in 2017 and 2018 respectively, both of whom were absolute rare gems. There was also a car accident that [nearly ended my family's life][1], and my then partner and I helped my parents move homes to lend us a hand with our then toddler (now preschooler 🎉).
+2018 was a difficult year in so many respects. The stress reached a crescendo resulting primarily from an unbelievably poorly managed work environment. The domestic front was, believe it or not, getting much better _after_ I announced my departure from Grantbook in September 2018. Grantbook needed to manage the so-called "optics" of my departure given prior managing directors' were ousted in 2017 and 2018 respectively, both of whom were absolute rare gems. There was also a car accident that [nearly ended my family's life][1], and my then partner and I helped my parents move homes to lend us a hand with our then toddler (now preschooler 🎉).
 
 Let's just say everything came to a head in December 2018.
 
