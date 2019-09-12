@@ -5,7 +5,7 @@ navigation: True
 class: post-template
 author: rahi
 title: When tomorrow arrives
-cover: 'http://i.imgur.com/jagP5vw.png'
+cover: 'http://i.imgur.com/g6nXpgD.png'
 date: '2019-09-12 7:24:00'
 tags: soul consulting employment parenting reflection
 ---
@@ -23,6 +23,8 @@ I'm paraphrasing...
 `Al'hamdulilah`: _the sum of all praises belongs with **the** God_. Plus lots more.
 
 Peace.
+
+Oh, there's a racism thing I'm working on. Have a few minutes to spare? I could [use your input](https://i.rahidelvi.ca/need-input-from-black-parents-dealing-with-tdsb-racism).
 
 ---
 
