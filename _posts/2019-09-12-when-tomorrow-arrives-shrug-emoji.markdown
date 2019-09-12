@@ -26,6 +26,4 @@ Peace.
 
 ---
 
----
-
 Photo by [Toomas Tartes](https://unsplash.com/photos/4QTBhzYm7Z8) on Unsplash
