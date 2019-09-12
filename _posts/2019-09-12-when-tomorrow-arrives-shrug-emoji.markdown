@@ -5,7 +5,7 @@ navigation: True
 class: post-template
 author: rahi
 title: When tomorrow arrives
-cover: 'https://images.unsplash.com/photo-1549874682-13ffd26ee224?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80'
+cover: 'http://i.imgur.com/jagP5vw.png'
 date: '2019-09-12 7:24:00'
 tags: soul consulting employment parenting reflection
 ---
@@ -23,3 +23,9 @@ I'm paraphrasing...
 `Al'hamdulilah`: _the sum of all praises belongs with **the** God_. Plus lots more.
 
 Peace.
+
+---
+
+---
+
+Photo by [Toomas Tartes](https://unsplash.com/photos/4QTBhzYm7Z8) on Unsplash
