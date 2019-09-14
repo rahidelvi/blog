@@ -12,12 +12,12 @@ tags: soul consulting employment parenting reflection
 
 Life is stunning.
 
-I learned today that God _wants to blow our minds_. A brother was saying.
+I learned today that God _wants to blow our minds_. A brother [was saying](https://youtu.be/LP3eNNLOs-M?t=1102).
 
 I'm paraphrasing...
 
 > - Hydrogen is flammable
-> - Oxygen if introduced to a "lit" hydrogen would make the fire worse
+> - Oxygen if introduced to "lit" hydrogen will actually make the fire worse
 > - And water 🌦💧☔, is exactly that
 
 `Al'hamdulilah`: _the sum of all praises belongs with **the** God_. Plus lots more.
