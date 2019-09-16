@@ -32,7 +32,7 @@ gsettings set org.gnome.shell.app-switcher current-workspace-only false
 - This is useful in single screen environments
 - Hitting `Alt` + `Tab` now will allow you to access apps from _other desktops_
 
-The benefit? When screen real estate is low, this ☝ setting, oddly, give me _more_ screen real estate in a fairly decluttered manner.
+The benefit? When screen real estate is low, this ☝ setting, oddly, gives me _more_ screen real estate in a fairly decluttered manner.
 
 ---
 
