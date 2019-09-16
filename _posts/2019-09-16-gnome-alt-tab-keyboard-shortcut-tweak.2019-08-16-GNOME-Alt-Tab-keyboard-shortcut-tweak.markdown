@@ -5,16 +5,16 @@ navigation: True
 class: post-template
 author: rahi
 title: Alt tab tweak for Ubuntu
-cover: 'http://i.imgur.com/oZay7mL.png'
+cover: 'http://i.imgur.com/cnXYLIe.png'
 date: '2019-09-16 07:52:00'
 tags: tech ubuntu desktop tips
 ---
 
-**The following applies to `18.04` as of Sep 16, 2019.**
+I like the Ubuntu OS. Of course there are headaches in setting some things up, that just comes with the territory. However, there are some tweaks that just make this OS too compelling. Here's a _simple want_.
 
 Set
 
-```
+```bash
 gsettings set org.gnome.shell.app-switcher current-workspace-only true
 ```
 
@@ -26,7 +26,7 @@ If you want GNOME to only show you apps in the current desktop
 
 Set
 
-```
+```bash
 gsettings set org.gnome.shell.app-switcher current-workspace-only false
 ```
 
