@@ -37,6 +37,6 @@ If you want GNOME to only show you apps from all desktops
 
 ---
 
-via
+Tip via [coder wall][1]
 
-https://coderwall.com/p/m5mhoq/gnome-3-how-to-alt-tab-windows-on-current-workspace-only
+[1]: https://coderwall.com/p/m5mhoq/gnome-3-how-to-alt-tab-windows-on-current-workspace-only
