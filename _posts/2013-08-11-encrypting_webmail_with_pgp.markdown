@@ -3,6 +3,7 @@ layout: post
 current: post
 navigation: True
 class: post-template
+cover: 'https://i.imgur.com/EdidOqb.png'
 author: rahi
 title: Encrypting webmail with PGP
 date: '2013-08-11 16:43:00'
@@ -29,4 +30,6 @@ There are many ways to go about encrypting data using PGP, however, the video fo
 
 One last note for this post. Though PGP encryption is considered to be among the strongest we have available today, it may not hold up to the computing power available for cryptanalysis  tomorrow. Therefore, claims of PGP being impenetrable should be approached with some caution. Today, it's pretty good!  
 
-[1]: https://lh3.googleusercontent.com/XnR9SNaVIj3315ND3di_MDxQPtbywZL4suitiVgFoTKKKybr1Hbamj73CavrWds_r5bYDg2TB0aVL5vWWC82X1iuxHlnlAoywMM4cbGm7hxyCLGvMPpb7mOgLmG6BMkZqz1L1lTpTEhfAuEr_jneG3ucYtFzngp8nUDadveLTX7u6DJKM6gRM6CF2YoYLD2GKebwEV9WbjHeKNB6xObMRD7pJpguT2dF_nl4cLG8lw2h1-ViEnURysE1ARhyd9G-WCKvBiiQeSigWuMEu51ijTmkCZuJI5d9XX2O02H83RccAfaoE109qZ3Y3IhS5c3CMDdIg5h635gr9pmoOz_OoAqZ8GAqX-3bYsL008WUzceRS4TjTBGPtMIQOO0tTycr-6Hf6p-mpWYe7upEMaSCe2MBZeQ8YUZU36B7Yo08dC0Uvw2ccmNCl5R0vCQIr9yJfkqUzWlqJFe4wQk_hP0ghcgUDVn2R6gDVzWxdeNWE20iPRNROHAvXM_kE-lO4p3UZjUvjYOJTmpy9tUmXekRzIOO8kt1L0lgSNHXN7FEup8gRhr_ST62SwEvdOZDXndl77hD5pl7OBWlCEXEtGiWrzkPqfBtBbj-5BGiAdAL2vJtCnCD25h4Cw=w500-h281-no
+---
+
+Photo by [Ryan Wallace](https://unsplash.com/@accrualbowtie) on Unsplash
