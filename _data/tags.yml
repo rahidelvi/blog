@@ -121,7 +121,7 @@ netflix:
 movies:
   name: movies
   description: False
-  cover: https://i.imgur.com/YV2O1Av.jpg
+  cover: False
 shows:
   name: shows
   description: False
