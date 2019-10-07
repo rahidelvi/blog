@@ -10,8 +10,6 @@ date: '2013-08-11 16:43:00'
 tags: tech desktop extensions chrome tutorial
 ---
 
-![Facebook: The privacy saga continues, a photo by opensourceway on Flickr.][1]
-
 When the Edward Snowden story about mass surveillance programs undertaken by the United States and other governments broke, the topic of privacy and information security was 'trending'.
 
 My interest in the story relates to Glenn Greenwald and his use of PGP encryption to communicate securely with Edward Snowden.PGP encryption has been around for sometime now.
