@@ -3,7 +3,7 @@ layout: page
 current: about
 title: About
 navigation: true
-cover: 'http://i.imgur.com/g6nXpgD.png'
+cover: 'https://i.imgur.com/ffj1Q0r.png'
 logo: 'assets/images/ghost.png'
 class: page-template
 subclass: 'post page'
@@ -16,3 +16,7 @@ Ideas benefit from periodic revision. Mine certainly do. So 'flip-flopping' whol
 I'd love to hear from you. Feel free to leave a comment on any post or get in touch by [one of these options](https://rahidelvi.ca/contact.html).
 
 If you're curious about my work. That's at **[Social Profit Practitioners](https://www.socialprofit.us/)**.
+
+---
+
+Photo by [theverticalstory](https://unsplash.com/@theverticalstory) on Unsplash
