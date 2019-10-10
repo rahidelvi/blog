@@ -5,7 +5,7 @@ navigation: True
 class: post-template
 author: rahi
 title: Alt tab tweak for Ubuntu
-cover: 'http://i.imgur.com/cnXYLIe.png'
+cover: 'https://i.imgur.com/yFioTHN.png'
 date: '2019-09-16 07:52:00'
 tags: tech ubuntu desktop tips
 ---
