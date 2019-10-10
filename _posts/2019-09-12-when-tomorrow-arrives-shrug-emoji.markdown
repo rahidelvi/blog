@@ -5,7 +5,7 @@ navigation: True
 class: post-template
 author: rahi
 title: When tomorrow arrives
-cover: 'http://i.imgur.com/g6nXpgD.png'
+cover: 'https://i.imgur.com/FbRhWQh.jpg'
 date: '2019-09-12 7:24:00'
 tags: soul consulting employment parenting reflection
 ---
