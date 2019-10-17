@@ -10,7 +10,7 @@ baseurl: '/'
 
 # Website info
 title: rahi rahim delvi
-description: traveller en route to the merciful, "delvi"
+description: traveller en route to the merciful, 'delvi'
 cover: assets/images/pencil.jpeg
 # logo: assets/images/blog-icon.png
 logo_dark: assets/images/favicon.png
