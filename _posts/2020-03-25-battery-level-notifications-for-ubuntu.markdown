@@ -5,7 +5,7 @@ navigation: True
 class: post-template
 author: rahi
 title: Battery level notifications for Ubuntu
-cover: https://i.imgur.com/cwEAXuP.png
+cover: https://i.imgur.com/JOM4oWF.jpg
 date: '2020-03-25 03:42:55'
 tags: tech desktop command-line ubuntu experiments
 ---
