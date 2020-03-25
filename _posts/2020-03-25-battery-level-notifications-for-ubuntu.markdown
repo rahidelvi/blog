@@ -6,11 +6,13 @@ class: post-template
 author: rahi
 title: Battery level notifications for Ubuntu
 cover: https://i.imgur.com/cwEAXuP.png
-date: '2017-01-31 02:05:37'
+date: '2020-03-25 03:42:55'
 tags: tech desktop command-line ubuntu experiments
 ---
 
-Subhan'allah! [Thank you dear God][🌦].
+Subhan'allah! [Thank you dear God][🌦]. We are to You, [and to You we are returning][https://listed.to/p/CuGZEwVpeE]. This bit was updated "this day", as Claire waaah 😢, almost used to say.
+
+Formerly gregorian, it was `date: '2017-01-31 02:05:37'` or `170131` or _Jan 31, 2017_.
 
 The power manager on your laptop does an *okay* job letting you know when it needs charging. But it never tells you if it’s been plugged in for too long. The solution? A script that notifies you when it's time to either plug in or unplug your battery charger.
 
@@ -86,7 +88,7 @@ The battery heat issue is still not an easy problem to solve. I think it would r
 
 Do you have a battery maintenance strategy?
 
-[🌦]: https://i.imgur.com/HnHolx6.jpg
+[🌦]: https://i.imgur.com/FEnpvTM.png
 [1]: http://tab.bz/jg72t
 [2]: http://askubuntu.com/a/518955/60869
 [3]: https://i.imgur.com/c2W40BX.png
