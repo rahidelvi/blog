@@ -13,9 +13,9 @@ Thanks for visiting my blog. I don't post as often as I'd like. It's a little co
 
 Ideas benefit from periodic revision. Mine certainly do. So 'flip-flopping' wholeheartedly embraced here.
 
-I'd love to hear from you. Feel free to leave a comment on any post or get in touch by [one of these options](https://rahidelvi.ca/contact.html).
+I'd love to hear from you. Feel free to leave a comment on any post or get in touch by [one of these options](https://www.rahidelvi.ca/privacy).
 
-If you're curious about my work. That's at **[Social Profit Practitioners](https://www.socialprofit.us/)**.
+If you're curious about my work. That's at **[Social Profit Practitioners](https://jots.rahidelvi.ca/tagged/quran)**.
 
 ---
 
