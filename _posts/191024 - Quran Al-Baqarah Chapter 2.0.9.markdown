@@ -1,0 +1,77 @@
+---
+layout: post
+current: post
+navigation: True
+class: post-template
+author: rahi
+title: Read
+date: '2025-09-28 19:06:00'
+tags: tech reflection quran 96
+---
+
+![Surah 2 of the Furqaan][1]
+
+God said...
+
+_translating into english..._
+
+
+# Recite...
+
+---
+
+### [96:1]
+
+**`Iqra`** with name of your Rabb `| Lord`
+
+who
+
+**created**
+
+### [96:2]
+
+Created insaan from an embryo.
+
+### [96:3]
+
+**`Iqra`**, and
+
+your Rabb `| Lord` is the Generous.
+
+### [96:4]
+
+Who taught by the pen.
+
+### [96:5]
+
+Taught **`insaan`** what he knew not
+
+### ...
+
+- ... etc.
+
+---
+
+### Resources
+
+- Arabic reciting via Abdul Basit: https://app.box.com/s/ipp7lwutf7k38jqrbk92bc2qyi55xa96
+- English reading via Snoop Dogg AI: https://app.box.com/s/h11jjoe1o30freqvkml5o2y929c86c42
+- Monotheist group translation: https://free-minds.org/quran/PM/96
+- Jots URL: https://www.tumblr.com/rahidelvi/795076891204845568/box
+
+---
+
+### Article Version
+
+[231210 - 250928]
+
+- 1.2 - `| pending revisions and updates...`
+- 1.1 Tumblr url
+- 1.0 Read 1.1
+- 0.3 - Monotheist group credit
+- 0.2 - Readable
+- 0.1 - file
+
+---
+
+[1]: https://i.imgur.com/tlPF2eH.jpeg
