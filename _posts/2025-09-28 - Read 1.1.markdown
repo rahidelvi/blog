@@ -9,8 +9,6 @@ date: '2025-09-28 19:06:00'
 tags: tech reflection quran 96
 ---
 
-![Surah 2 of the Furqaan][1]
-
 God said...
 
 _translating into english..._
@@ -52,6 +50,11 @@ Taught **`insaan`** what he knew not
 
 ---
 
+### The argument visual
+
+![See 191024 - Quran Al-Baqarah Surah 2 of the Furqaan][1]
+
+
 ### Resources
 
 - Arabic reciting via Abdul Basit: https://app.box.com/s/ipp7lwutf7k38jqrbk92bc2qyi55xa96
@@ -59,9 +62,7 @@ Taught **`insaan`** what he knew not
 - Monotheist group translation: https://free-minds.org/quran/PM/96
 - Jots URL: https://www.tumblr.com/rahidelvi/795076891204845568/box
 
----
-
-### Article Version
+### Article version
 
 [231210 - 250928]
 
